@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/APIProject/uploads/annin.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\annin.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mSJd0nS9gr18neBukMvslMHey5YzWIRdC3fZM1e\u002Bdis="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7813"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mSJd0nS9gr18neBukMvslMHey5YzWIRdC3fZM1e\u002Bdis=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 22:37:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/APIProject/uploads/annin.tbfgd5l3wa.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\annin.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tbfgd5l3wa"},{"Name":"integrity","Value":"sha256-mSJd0nS9gr18neBukMvslMHey5YzWIRdC3fZM1e\u002Bdis="},{"Name":"label","Value":"_content/APIProject/uploads/annin.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7813"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mSJd0nS9gr18neBukMvslMHey5YzWIRdC3fZM1e\u002Bdis=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 22:37:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/APIProject/uploads/eleeee.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\eleeee.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CUnV/l7z8b7FKE4M\u002BYGNptA/8NfZehKuYrFICjY4J3w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7974"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CUnV/l7z8b7FKE4M\u002BYGNptA/8NfZehKuYrFICjY4J3w=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 22:33:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/APIProject/uploads/eleeee.nwuezkl0mq.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\eleeee.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nwuezkl0mq"},{"Name":"integrity","Value":"sha256-CUnV/l7z8b7FKE4M\u002BYGNptA/8NfZehKuYrFICjY4J3w="},{"Name":"label","Value":"_content/APIProject/uploads/eleeee.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7974"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CUnV/l7z8b7FKE4M\u002BYGNptA/8NfZehKuYrFICjY4J3w=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 22:33:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

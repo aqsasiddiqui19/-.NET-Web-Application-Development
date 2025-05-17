@@ -1,0 +1,2 @@
+wwwroot\uploads\annin.jpeg
+wwwroot\uploads\eleeee.jpeg
